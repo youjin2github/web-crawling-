@@ -36,7 +36,6 @@ library(rvest)
 
 이후 데이터 전처리해서 분석하면 될 듯!
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6a8ee6d-4f80-47d6-825b-bcea51a0525c/Untitled.png)
 
 단점 : URL을 하나하나 가져오고 원하는 내용을 직접 선택해야 하기 때문에 번거로울것 같다. 
 
