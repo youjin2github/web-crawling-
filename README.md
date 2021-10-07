@@ -9,7 +9,7 @@ R을 이용한 웹크롤링!
 1. Human Copy-Paste → 인형 눈 붙이기 같은 느낌이랄까
 2. Text pattern matching
 3. API Interface 
-4. DOM Parsing ⇒ 이것을 사용하 것입니당
+4. DOM Parsing ⇒ 이것을 사용할 것입니당
 
 R로 바로 들어가서! 코드를 작성해봅시당
 
@@ -30,6 +30,9 @@ library(rvest)
 [https://movie.naver.com/movie/bi/mi/basic.naver?cod=99702](https://movie.naver.com/movie/bi/mi/basic.naver?code=99702)
 
 여기서 원하는 내용들을 선택해서 가져올 수 있다! *노란색 표시된 내용
+
+![image](https://user-images.githubusercontent.com/86221508/136323083-206d7b6b-a403-4cb8-b546-f5be776d28bd.png)
+
 
 이후 데이터 전처리해서 분석하면 될 듯!
 
